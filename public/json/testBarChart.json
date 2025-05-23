@@ -1,0 +1,38 @@
+[
+  {
+    "name": {
+      "month": "Jan"
+    },
+    "answer": 70
+  },
+  {
+    "name": {
+      "month": "Feb"
+    },
+    "answer": 40
+  },
+  {
+    "name": {
+      "month": "Mar"
+    },
+    "answer": 90
+  },
+  {
+    "name": {
+      "month": "Apr"
+    },
+    "answer": 55
+  },
+  {
+    "name": {
+      "month": "May"
+    },
+    "answer": 10
+  },
+  {
+    "name": {
+      "month": "June"
+    },
+    "answer": 95
+  }
+]
